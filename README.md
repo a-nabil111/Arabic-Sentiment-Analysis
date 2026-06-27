@@ -77,4 +77,4 @@ Arabic NLP is an underrepresented field in machine learning due to the complexit
 - Matplotlib, Seaborn
 - TensorFlow, Keras
 - Scikit-learn
-- NLTK, re
+- re
